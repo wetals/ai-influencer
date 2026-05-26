@@ -120,7 +120,9 @@
       "Bash(cp \"/Users/alec/Downloads/hf_20260525_131602_eb38f8cb-0b26-4398-acaf-82084fbbb12a.png\" \"/Users/alec/Desktop/Ai Influencer/public/camila/photos/p12.png\")",
       "Bash(cp \"/Users/alec/Downloads/hf_20260525_162957_a60cf291-8b07-4675-a35c-cb16cfaaccdb.png\" \"/Users/alec/Desktop/Ai Influencer/public/camila/photos/p13.png\")",
       "Bash(cp \"/Users/alec/Downloads/hf_20260525_175259_bd481ebc-7a1f-4842-8a22-f61d7b99e253.mp4\" \"/Users/alec/Desktop/Ai Influencer/public/camila/videos/v1.mp4\")",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(npx vercel *)",
+      "Bash(gh run *)"
     ]
   }
 }
